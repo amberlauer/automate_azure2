@@ -1,0 +1,163 @@
+jpi1 jp2 jpi3 jpi4 res order
+0	2	0	0	0
+Segment #1 Chi-Squared/N: 1.73635
+0	2	0	1	0
+Segment #1 Chi-Squared/N: 1.7924
+0	2	0	2	0
+Segment #1 Chi-Squared/N: 1.69656
+2	2	0	0	0
+Segment #1 Chi-Squared/N: 1.50161
+1	2	0	0	0
+Segment #1 Chi-Squared/N: 1.76126
+2	2	0	1	0
+Segment #1 Chi-Squared/N: 1.50899
+2	2	0	2	0
+Segment #1 Chi-Squared/N: 1.56133
+1	2	0	1	0
+Segment #1 Chi-Squared/N: 1.70601
+1	2	0	2	0
+Segment #1 Chi-Squared/N: 1.77208
+0	2	1	0	0
+Segment #1 Chi-Squared/N: 1.73539
+0	2	2	0	0
+Segment #1 Chi-Squared/N: 1.72637
+0	2	1	2	0
+Segment #1 Chi-Squared/N: 1.73717
+0	2	1	1	0
+Segment #1 Chi-Squared/N: 1.69967
+0	2	2	2	0
+Segment #1 Chi-Squared/N: 1.69046
+0	2	2	1	0
+Segment #1 Chi-Squared/N: 1.77736
+1	2	1	0	0
+Segment #1 Chi-Squared/N: 1.76056
+2	2	1	0	0
+Segment #1 Chi-Squared/N: 1.50132
+1	2	1	2	0
+Segment #1 Chi-Squared/N: 1.66406
+2	2	1	2	0
+Segment #1 Chi-Squared/N: 1.53028
+1	2	1	1	0
+Segment #1 Chi-Squared/N: 1.5473
+2	2	1	1	0
+Segment #1 Chi-Squared/N: 1.50792
+1	2	2	0	0
+Segment #1 Chi-Squared/N: 1.75105
+0	0	0	0	0
+Segment #1 Chi-Squared/N: 1.86513
+2	2	2	0	0
+Segment #1 Chi-Squared/N: 1.48707
+1	2	2	2	0
+Segment #1 Chi-Squared/N: 1.65955
+2	2	2	2	0
+Segment #1 Chi-Squared/N: 1.4952
+1	2	2	1	0
+Segment #1 Chi-Squared/N: 1.7222
+2	2	2	1	0
+Segment #1 Chi-Squared/N: 1.49675
+0	0	0	1	0
+Segment #1 Chi-Squared/N: 1.92273
+0	0	0	2	0
+Segment #1 Chi-Squared/N: 2.02046
+1	0	0	0	0
+Segment #1 Chi-Squared/N: 1.93521
+2	0	0	0	0
+Segment #1 Chi-Squared/N: 1.92674
+1	0	0	1	0
+Segment #1 Chi-Squared/N: 1.98895
+1	0	0	2	0
+Segment #1 Chi-Squared/N: 2.00047
+2	0	0	1	0
+Segment #1 Chi-Squared/N: 1.92371
+2	0	0	2	0
+Segment #1 Chi-Squared/N: 1.93785
+0	0	2	0	0
+Segment #1 Chi-Squared/N: 1.85016
+0	0	2	2	0
+Segment #1 Chi-Squared/N: 1.94482
+0	0	1	0	0
+Segment #1 Chi-Squared/N: 1.86173
+0	0	2	1	0
+Segment #1 Chi-Squared/N: 1.90813
+0	0	1	2	0
+Segment #1 Chi-Squared/N: 2.01607
+0	0	1	1	0
+Segment #1 Chi-Squared/N: 1.92125
+1	0	1	0	0
+Segment #1 Chi-Squared/N: 1.9357
+1	0	2	0	0
+Segment #1 Chi-Squared/N: 1.92203
+1	0	2	2	0
+Segment #1 Chi-Squared/N: 1.9848
+1	0	2	1	0
+Segment #1 Chi-Squared/N: 1.97865
+1	0	1	2	0
+Segment #1 Chi-Squared/N: 2.00054
+1	0	1	1	0
+Segment #1 Chi-Squared/N: 1.98819
+2	0	1	0	0
+Segment #1 Chi-Squared/N: 1.92598
+2	0	2	0	0
+Segment #1 Chi-Squared/N: 1.90363
+2	0	2	2	0
+Segment #1 Chi-Squared/N: 1.89646
+2	0	2	1	0
+Segment #1 Chi-Squared/N: 1.9028
+2	0	1	2	0
+Segment #1 Chi-Squared/N: 1.88448
+2	0	1	1	0
+Segment #1 Chi-Squared/N: 1.91961
+0	1	0	0	0
+Segment #1 Chi-Squared/N: 1.87087
+0	1	0	1	0
+Segment #1 Chi-Squared/N: 1.90127
+0	1	0	2	0
+Segment #1 Chi-Squared/N: 2.02061
+2	1	0	0	0
+Segment #1 Chi-Squared/N: 1.79872
+2	1	0	1	0
+Segment #1 Chi-Squared/N: 1.84863
+2	1	0	2	0
+Segment #1 Chi-Squared/N: 1.71301
+1	1	0	0	0
+Segment #1 Chi-Squared/N: 1.64391
+1	1	0	1	0
+Segment #1 Chi-Squared/N: 1.9955
+1	1	0	2	0
+Segment #1 Chi-Squared/N: 1.78783
+0	1	1	0	0
+Segment #1 Chi-Squared/N: 2.05184
+0	1	1	1	0
+Segment #1 Chi-Squared/N: 2.05496
+0	1	1	2	0
+Segment #1 Chi-Squared/N: 1.98801
+0	1	2	0	0
+Segment #1 Chi-Squared/N: 1.86414
+2	1	1	0	0
+Segment #1 Chi-Squared/N: 1.81695
+0	1	2	1	0
+Segment #1 Chi-Squared/N: 1.90454
+0	1	2	2	0
+Segment #1 Chi-Squared/N: 1.97241
+2	1	1	1	0
+Segment #1 Chi-Squared/N: 1.84861
+2	1	1	2	0
+Segment #1 Chi-Squared/N: 1.82973
+1	1	1	0	0
+Segment #1 Chi-Squared/N: 2.11992
+2	1	2	0	0
+Segment #1 Chi-Squared/N: 1.79234
+2	1	2	1	0
+Segment #1 Chi-Squared/N: 1.82063
+1	1	1	1	0
+Segment #1 Chi-Squared/N: 1.85412
+2	1	2	2	0
+Segment #1 Chi-Squared/N: 1.78684
+1	1	1	2	0
+Segment #1 Chi-Squared/N: 1.99244
+1	1	2	0	0
+Segment #1 Chi-Squared/N: 1.89281
+1	1	2	1	0
+Segment #1 Chi-Squared/N: 1.98506
+1	1	2	2	0
+Segment #1 Chi-Squared/N: 1.94178
