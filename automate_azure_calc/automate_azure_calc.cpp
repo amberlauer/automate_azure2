@@ -37,8 +37,8 @@ int PARTIAL[6][4]={{10000,0,0,0},{1500,1000,500,500},{1500,1000,500,500},{1500,1
 
 outfile<< "<config>" <<endl;
 outfile<< "true                                                                                                #Perform A-Matrix Calculation" <<endl;
-outfile<< "/home/amber/executables/automate_azure2/outputs                                #Full Path to Output Directory" <<endl;
-outfile<< "/home/amber/executables/automate_azure2/outputs                                #Full Path to Checks Directory" <<endl;
+outfile<< "/home/amber/Documents/Tech/azure/outputs                                #Full Path to Output Directory" <<endl;
+outfile<< "/home/amber/Documents/Tech/azure/outputs                                #Full Path to Checks Directory" <<endl;
 outfile<< "none                                                                                                #Compond Nucleus Check" <<endl;
 outfile<< "none                                                                                                #Boundary Condition Check" <<endl;
 outfile<< "none                                                                                                #Data Check" <<endl;
@@ -149,14 +149,14 @@ outfile << "</levels>" << endl;
 outfile << "<segmentsData>" << endl;
 
 //automate 4th and 5th entry when change 
-//outfile << "1              1              1              2.5            2.8            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
-//outfile << "1              1              1              2.5            2.8            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
+outfile << "1              1              1              2.5            2.8            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
+outfile << "1              1              1              2.5            2.8            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
 
 //outfile << "1              1              1              2.9            3.45            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
 //outfile << "1              1              1              2.9            3.45            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
 
-outfile << "1              1              1              3.75            4.2            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
-outfile << "1              1              1              3.75            4.2            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
+//outfile << "1              1              1              3.75            4.2            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
+//outfile << "1              1              1              3.75            4.2            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
 
 outfile << "</segmentsData>" << endl;
 outfile << "<segmentsTest>" << endl;
@@ -168,8 +168,8 @@ outfile << "</targetInt>" << endl;
 outfile << "<lastRun>" << endl;
 outfile << "8969" << endl;
 //make sure this is an absolute path.
-outfile << "\"/home/amber/executables/automate_azure2/outputs/"<<naming<<"alibaba.out\"" << endl;
-outfile << "\"/home/amber/executables/automate_azure2/outputs/"<<naming<<".extrap\"" << endl;
+outfile << "\"/home/amber/Documents/Tech/azure/outputs/"<<naming<<"alibaba.out\"" << endl;
+outfile << "\"/home/amber/Documents/Tech/azure/outputs/"<<naming<<".extrap\"" << endl;
 outfile << "0 \"\" "<< endl;
 outfile << "-1. -1. -1." << endl;
 outfile << "</lastRun>" << endl;

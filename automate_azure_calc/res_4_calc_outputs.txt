@@ -1,0 +1,32 @@
+jpi1 jp2 jpi3 jpi4 res order
+0   0    0    0  0 
+Segment #1 Chi-Squared/N: 1.88963
+1   0    0    0  0 
+Segment #1 Chi-Squared/N: 1.91115
+2   0    0    0  0 
+Segment #1 Chi-Squared/N: 1.91263
+3   0    0    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.90533
+4   0    0    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.9037
+0   1    0    0  0 
+Segment #1 Chi-Squared/N: 1.99692
+1   1    0    0  0 
+Segment #1 Chi-Squared/N: 2.01135
+2   1    0    0  0 
+Segment #1 Chi-Squared/N: 2.00227
+3   1    0    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.00309
+4   1    0    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.00169
+0   2    0    0  0 
+Segment #1 Chi-Squared/N: 1.80894
+1   2    0    0  0 
+Segment #1 Chi-Squared/N: 1.82509
+2   2    0    0  0 
+Segment #1 Chi-Squared/N: 1.82374
+3   2    0    0  0 
