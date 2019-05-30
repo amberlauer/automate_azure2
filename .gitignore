@@ -1,0 +1,6 @@
+*.pdf
+*.o 
+*.html
+*.log
+*.lock
+*.tmp
