@@ -8,9 +8,10 @@ source ./bin/thisroot.sh
 cd $cwd
 echo "what to name the output file?"
 read output_name
-touch  ../outputs/${output_name}_calc_outputs.txt
+output_root=/home/amber/Documents/Tech/azure/
+touch  ${output_root}/outputs/${output_name}_calc_outputs.txt
 res=8
-echo    "jpi1 jp2 jpi3 jpi4 res order" >> ../outputs/${output_name}_calc_outputs.txt
+echo    "jpi1 jp2 jpi3 jpi4 res order" >> ${output_root}/outputs/${output_name}_calc_outputs.txt
 for((a=0; a<=4; a++))
 do 
         for((b=0; b<=4; b++))
@@ -22,8 +23,8 @@ do
                                 rm current_work.azr
                                 ./automate_azure_calc.o $d $c $b $a  $res
                                 mv work_temp.azr current_work.azr
-                                echo "$d   $c    $b    $a  $res " >> ../outputs/${output_name}_calc_outputs.txt
-                                ./automate_azure_responses_calc.exp | grep -E 'Segment #1|WARNING' >> ../outputs/${output_name}_calc_outputs.txt
+                                echo "$d   $c    $b    $a  $res " >> ${output_root}/outputs/${output_name}_calc_outputs.txt
+                                ./automate_azure_responses_calc.exp | grep -E 'Segment #1|WARNING' >> ${output_root}/outputs/${output_name}_calc_outputs.txt
                         done
                 done
         done

@@ -8,17 +8,18 @@ source ./bin/thisroot.sh
 cd $cwd
 echo "what to name the output file?"
 read output_name
-touch  ../outputs/${output_name}_fit_outputs.txt
+output_root=/home/amber/Documents/Tech/azure
+touch  ${output_root}/outputs/${output_name}_fit_outputs.txt
 
-echo    "jpi1 jp2 jpi3 jpi4 res order" >> ../outputs/${output_name}_fit_outputs.txt
+echo    "jpi1 jp2 jpi3 jpi4 res order" >> ${output_root}/outputs/${output_name}_fit_outputs.txt
 for((a=1; a<=212; a++))
 do
         rm ./current_work.azr
         fit=$(sed -n "$a"'p' ./good_calcs_res4)
         ./automate_azure_fit.o $fit
         mv work_temp.azr current_work.azr
-        echo "$fit" >> ../outputs/${output_name}_fit_outputs.txt
-        ./automate_azure_fit.exp | grep -E 'Segment #1|WARNING' >> ../outputs/${output_name}_fit_outputs.txt
+        echo "$fit" >> ${output_root}/outputs/${output_name}_fit_outputs.txt
+        ./automate_azure_fit.exp | grep -E 'Segment #1|WARNING' >> ${output_root}/outputs/${output_name}_fit_outputs.txt
 done
 
 #WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
