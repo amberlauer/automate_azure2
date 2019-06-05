@@ -31,14 +31,17 @@ double RESON[14]={6.950, 7.041, 7.176, 7.370, 7.480, 7.801, 8.026, 8.189, 8.322,
 int JPI[6][8]={{0,1,1,4,0,0,0},{1,-1,3,2,2,6,1},{2,1,4,4,0,4,8,1},{3,-1,4, 6, 2, 6, 10,1},{4, 1, 4, 8, 4, 8, 12,1},{5,-1,4, 10, 6, 10, 14,1}};
 
 	// this is for partial widths, [jpi][order of mag][widths] I generalize to only 3 sets of partial widths. one for 0+, one for , and one for 
-int PARTIAL[6][4]={{35000,0,0,0},{1500,1000,500,500},{15000,10000,5000,5000},{1500,1000,500,500},{150,100,50,50},{150,100,50,50}};
+//int PARTIAL[6][4]={{35000,0,0,0},{1500,1000,500,500},{15000,10000,5000,5000},{1500,1000,500,500},{150,100,50,50},{150,100,50,50}};
+	// this is for partial widths, [jpi][order of mag][widths] I generalize to only 3 sets of partial widths. one for 0+, one for , and one for 
+int PARTIAL[6][4]={{10000,0,0,0},{1500,1000,500,500},{1500,1000,500,500},{1500,1000,500,500},{150,100,50,50},{150,100,50,50}};
+// edit the path, and change the true/false to suit your needs.
 
 outfile.open("work_temp.azr", ofstream::out | ofstream::app | ofstream::ate);
 // edit the path, and change the true/false to suit your needs.
 outfile<< "<config>" <<endl;
 outfile<< "true                                                                                                #Perform A-Matrix Calculation" <<endl;
-outfile<< "/home/amber/executables/automate_azure2/outputs/                                #Full Path to Output Directory" <<endl;
-outfile<< "/home/amber/executables/automate_azure2/outputs/                                #Full Path to Checks Directory" <<endl;
+outfile<< "/home/amber/Documents/Tech/azure/outputs/                                #Full Path to Output Directory" <<endl;
+outfile<< "/home/amber/Documents/Tech/azure/outputs/                                #Full Path to Checks Directory" <<endl;
 outfile<< "none                                                                                                #Compond Nucleus Check" <<endl;
 outfile<< "none                                                                                                #Boundary Condition Check" <<endl;
 outfile<< "none                                                                                                #Data Check" <<endl;
@@ -149,11 +152,11 @@ outfile << "</levels>" << endl;
 outfile << "<segmentsData>" << endl;
 
 //automate 4th and 5th entry when change 
-//outfile << "1              1              1              2.5            2.8            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
-//outfile << "1              1              1              2.5            2.8            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
+outfile << "1              1              1              2.5            2.8            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
+outfile << "1              1              1              2.5            2.8            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
 
-outfile << "1              1              1              2.9            3.45            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
-outfile << "1              1              1              2.9            3.45            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
+//outfile << "1              1              1              2.9            3.45            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
+//outfile << "1              1              1              2.9            3.45            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
 
 //outfile << "1              1              1              3.75            4.2            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
 //outfile << "1              1              1              3.75            4.2            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
@@ -167,8 +170,8 @@ outfile << "</targetInt>" << endl;
 outfile << "<lastRun>" << endl;
 outfile << "8969" << endl;
 //make sure this is an absolute path.
-outfile << "\"/home/amber/executables/automate_azure2/outputs/"<<naming<<"alibaba.out\"" << endl;
-outfile << "\"/home/amber/executables/automate_azure2/outputs/"<<naming<<".extrap\"" << endl;
+outfile << "\"/home/amber/Documents/Tech/azure/outputs/"<<naming<<"alibaba.out\"" << endl;
+outfile << "\"/home/amber/Documents/Tech/azure/outputs/"<<naming<<".extrap\"" << endl;
 outfile << "0 \"\" "<< endl;
 outfile << "-1. -1. -1." << endl;
 outfile << "</lastRun>" << endl;

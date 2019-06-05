@@ -13,7 +13,7 @@ echo "what to name the output file?"
 read output_name
 output_root=/home/amber/Documents/Tech/azure/
 touch  ${output_name}_calc_outputs.txt
-res=0
+res=8
 echo    "jpi1 jp2 jpi3 jpi4 res order" >> ${output_name}_calc_outputs.txt
 for((a=0; a<=4; a++))
 do 

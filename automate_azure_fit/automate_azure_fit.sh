@@ -3,19 +3,22 @@
 #g++ -o automate_azure.o automate_azure.cpp
 rm *outputs.txt
 cwd=$(pwd)
-cd /home/amber/executables/root_6.16.00/install
+#cd /home/amber/executables/root_6.16.00/install
+cd /home/amber/executables/root-6.12.06/install
 source ./bin/thisroot.sh
 cd $cwd
+
+g++ -o automate_azure_fit.o automate_azure_fit.cpp
 echo "what to name the output file?"
 read output_name
 output_root=/home/amber/Documents/Tech/azure
 touch  ${output_name}_fit_outputs.txt
 
 echo    "jpi1 jp2 jpi3 jpi4 res order" >> ${output_name}_fit_outputs.txt
-for((a=1; a<=212; a++))
+for((a=1; a<=79; a++))
 do
         rm ./current_work.azr
-        fit=$(sed -n "$a"'p' ./good_calcs_res4)
+        fit=$(sed -n "$a"'p' ./good_calcs_res0)
         ./automate_azure_fit.o $fit
         mv work_temp.azr current_work.azr
         echo "$fit" >> ${output_name}_fit_outputs.txt
