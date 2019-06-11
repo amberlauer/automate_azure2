@@ -152,11 +152,11 @@ outfile << "</levels>" << endl;
 outfile << "<segmentsData>" << endl;
 
 //automate 4th and 5th entry when change 
-outfile << "1              1              1              2.5            2.8            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
-outfile << "1              1              1              2.5            2.8            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
+//outfile << "1              1              1              2.5            2.8            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
+//outfile << "1              1              1              2.5            2.8            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
 
-//outfile << "1              1              1              2.9            3.45            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
-//outfile << "1              1              1              2.9            3.45            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
+outfile << "1              1              1              2.9            3.45            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
+outfile << "1              1              1              2.9            3.45            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
 
 //outfile << "1              1              1              3.75            4.2            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
 //outfile << "1              1              1              3.75            4.2            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;

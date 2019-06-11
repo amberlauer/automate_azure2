@@ -15,10 +15,10 @@ output_root=/home/amber/Documents/Tech/azure
 touch  ${output_name}_fit_outputs.txt
 
 echo    "jpi1 jp2 jpi3 jpi4 res order" >> ${output_name}_fit_outputs.txt
-for((a=1; a<=79; a++))
+for((a=200; a<=350; a++))
 do
         rm ./current_work.azr
-        fit=$(sed -n "$a"'p' ./good_calcs_res0)
+        fit=$(sed -n "$a"'p' ./good_calcs_res4)
         ./automate_azure_fit.o $fit
         mv work_temp.azr current_work.azr
         echo "$fit" >> ${output_name}_fit_outputs.txt
