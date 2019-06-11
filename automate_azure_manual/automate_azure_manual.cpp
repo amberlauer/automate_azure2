@@ -37,8 +37,8 @@ outfile.open("work_temp.azr", ofstream::out | ofstream::app | ofstream::ate);
 // edit the path, and change the true/false to suit your needs.
 outfile<< "<config>" <<endl;
 outfile<< "true                                                                                                #Perform A-Matrix Calculation" <<endl;
-outfile<< "/home/amber/executables/automate_azure2/outputs                                #Full Path to Output Directory" <<endl;
-outfile<< "/home/amber/executables/automate_azure2/outputs                                #Full Path to Checks Directory" <<endl;
+outfile<< "/home/amber/Documents/Tech/azure/outputs/"<<argv[6]<<"/"<<                              "#Full Path to Output Directory" <<endl;
+outfile<< "/home/amber/Documents/Tech/azure/outputs/"<<argv[6]<<"/"<<                           "#Full Path to Checks Directory" <<endl;
 outfile<< "none                                                                                                #Compond Nucleus Check" <<endl;
 outfile<< "none                                                                                                #Boundary Condition Check" <<endl;
 outfile<< "none                                                                                                #Data Check" <<endl;
@@ -161,8 +161,8 @@ outfile << "</targetInt>" << endl;
 outfile << "<lastRun>" << endl;
 outfile << "8969" << endl;
 //make sure this is an absolute path.
-outfile << "\"/home/amber/executables/automate_azure2/outputs/"<<naming<<"alibaba.out\"" << endl;
-outfile << "\"/home/amber/executables/automate_azure2/outputs/"<<naming<<".extrap\"" << endl;
+outfile << "\"/home/amber/Documents/Tech/azure/outputs/"<<argv[6]<<"/"<<naming<<".out\"" << endl;
+outfile << "\"/home/amber/Documents/Tech/azure/outputs/"<<argv[6]<<"/"<<naming<<".extrap\"" << endl;
 outfile << "0 \"\" "<< endl;
 outfile << "-1. -1. -1." << endl;
 outfile << "</lastRun>" << endl;

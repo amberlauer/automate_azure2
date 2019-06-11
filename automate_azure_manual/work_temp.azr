@@ -1,7 +1,7 @@
 <config>
 true                                                                                                #Perform A-Matrix Calculation
-/home/amber/Documents/Tech/azure/outputs/manual/                                                    #Full Path to Output Directory
-/home/amber/Documents/Tech/azure/outputs/manual/                                                    #Full Path to Checks Directory
+/home/amber/Documents/Tech/azure/outputs/res0/                                                      #Full Path to Output Directory
+/home/amber/Documents/Tech/azure/outputs/res0/                                                      #Full Path to Checks Directory
 none                                                                                                #Compond Nucleus Check
 none                                                                                                #Boundary Condition Check
 none                                                                                                #Data Check
@@ -121,9 +121,9 @@ none                                                                            
 0              "1"            10             1              0.01           0              0               "" 0               0              0 
 </targetInt>
 <lastRun>
-8973
-"/home/amber/executables/automate_azure2/outputs/auto2_2_2_0_0alibaba.out"
-"/home/amber/executables/automate_azure2/outputs/auto2_2_2_0_0.extrap"
+8969
+"/home/amber/Documents/Tech/azure/outputs/res0/auto2_2_2_0_0.out"
+"/home/amber/Documents/Tech/azure/outputs/res0/auto2_2_2_0_0.extrap"
 0 0
 0 ". -1. -1."
 0 0 0
