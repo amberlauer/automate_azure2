@@ -1,0 +1,10 @@
+set terminal pngcairo size 800,600 enhanced font 'Verdana,10'
+set output 'Output.png'
+set title sprintf("R-Matrix fit and data")
+set grid
+set key left top
+set xlabel "Excitation Energy in MeV"
+set ylabel "Diff cross-section in b/sr"
+#Column 2 has exc energy in MeV, 6 has data cross-section, 7 has data-uncertainty. Column 4 has the Azure calculation
+plot 'AZUREOut_aa=1_R=1.out' using 2:6:7 title "Raw data" with yerrorb ls 7, 'AZUREOut_aa=1_R=1.out' using 2:4 title "R-Matrix fit" w l ls 1 lw 3
+set term x11

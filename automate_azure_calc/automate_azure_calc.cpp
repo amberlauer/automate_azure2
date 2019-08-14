@@ -18,11 +18,12 @@ int ELLE=0;
 
 ofstream outfile;
 outfile.open("work_temp.azr", ofstream::out | ofstream::app | ofstream::ate);
-	// add more atoi(argv[]) if more resonances are added, make spin array larger
-	// take this out of CLI and automate
 
 int input[5]={atoi(argv[1]), atoi(argv[2]), atoi(argv[3]), atoi(argv[4]), atoi(argv[5])};
 std::string naming = std::string("auto")+*argv[1]+"_" + *argv[2] + "_" + *argv[3] + "_" + *argv[4];
+	
+	// add more atoi(argv[]) if more resonances are added, make spin array larger
+	// take this out of CLI and automate
 
 	// edit this to contain the resonances you are studying
 double RESON[12]={6.950, 7.041, 7.176, 7.370, 7.480, 7.801, 8.026, 8.189, 8.322, 8.507, 8.586, 8.672};
@@ -30,12 +31,20 @@ double RESON[12]={6.950, 7.041, 7.176, 7.370, 7.480, 7.801, 8.026, 8.189, 8.322,
 	//spin, parity, #entries, s1, s2,s3,s4
 	// this is for natural parity
 int JPI[6][8]={{0,1,1,4,0,0,0,0},{1,-1,3,2,2,6,1,0},{2,1,4,4,0,4,8,1},{3,-1,4, 6, 2, 6, 10,1},{4, 1, 4, 8, 4, 8, 12,1},{5,-1,4, 10, 6, 10, 14,1}};
-	// this is for partial widths, [jpi][order of mag][widths] I generalize to only 3 sets of partial widths. one for 0+, one for , and one for 
-int PARTIAL[6][4]={{35000,0,0,0},{1500,1000,500,500},{15000,10000,5000,5000},{1500,1000,500,500},{150,100,50,50},{150,100,50,50}};
-	// this is for partial widths, [jpi][order of mag][widths] I generalize to only 3 sets of partial widths. one for 0+, one for , and one for 
-//int PARTIAL[6][4]={{10000,0,0,0},{1500,1000,500,500},{1500,1000,500,500},{1500,1000,500,500},{150,100,50,50},{150,100,50,50}};
-// edit the path, and change the true/false to suit your needs.
 
+	// this is for partial widths, [jpi][order of mag][widths] I generalize to only 3 sets of partial widths. one for 0+, one for , and one for 
+//int PARTIAL[6][4]={{35000,0,0,0},{1500,1000,500,500},{15000,10000,5000,5000},{1500,1000,500,500},{150,100,50,50},{150,100,50,50}};
+
+// these are narrower	
+// this is for partial widths, [jpi][order of mag][widths] I generalize to only 3 sets of partial widths. one for 0+, one for , and one for 
+// wider 2 int PARTIAL[6][4]={{40000,0,0,0},{1500,20000,5000,500},{1500,20000,5000,500},{1500,20000,5000,500},{150,10000,50,50},{150,10000,50,50}};
+// wider 1 int PARTIAL[6][4]={{30000,0,0,0},{1500,10000,5000,500},{1500,10000,5000,500},{1500,10000,5000,500},{150,1000,50,50},{150,1000,50,50}};
+
+// wider 3 int PARTIAL[6][4]={{50000,0,0,0},{1500,30000,5000,500},{1500,30000,5000,500},{1500,20000,5000,500},{150,15000,50,50},{150,15000,50,50}};
+
+int PARTIAL[6][4]={{20000,0,0,0},{1500,30000,5000,500},{1500,50000,5000,500},{1500,20000,5000,500},{150,15000,50,50},{150,15000,50,50}};
+
+// edit the path, and change the true/false for A-matrix to suit your needs. Richard Deboer says it's equivalent to R-matrix. 
 outfile<< "<config>" <<endl;
 outfile<< "true                                                                                                #Perform A-Matrix Calculation" <<endl;
 outfile<< "/home/amber/Documents/Tech/azure/outputs                                #Full Path to Output Directory" <<endl;
@@ -58,7 +67,8 @@ for(a=0; a<4; a++){
 	for (c=0; c<JPI[input[a]][2]; c++){
 		if (c==0 && input[a]!=0){ELLE=2;}
 		else{ELLE=4;}
-		//	  spin             		     parity                   	       E_res                                     2xess                 2xelle               entry                   partial
+
+		// everything that's not a user variable is fixed for this experimental setup but you need to change it if you change experiments.s
 		outfile << JPI[input[a]][0] << "\t" << JPI[input[a]][1] <<  "\t" <<   RESON[a+input[4]]   <<"\t1      1       1\t"<< ELLE << "\t" <<   JPI[input[a]][c+3] << "\t" <<  a+1 << "\t1       0\t"   <<   PARTIAL[input[a]][c]<< "\t0.5     1       1.5     1       0       1       37      1       19      4.547   4.547   0       0       0.0     0       6.015 0       0       0\t" << endl;
         	//LEVEL="spin    parity       res   fixe       1       1		2ess	2elle       entry      1       0       partial   0.5     1       1.5     1       0       1       37      1       19      4.547   4.547   0       0       0.0     0       6.06511 0       0       0"
 	};
@@ -150,14 +160,14 @@ outfile << "</levels>" << endl;
 outfile << "<segmentsData>" << endl;
 
 //automate 4th and 5th entry when change 
-//outfile << "1              1              1              2.5            2.8            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
-//outfile << "1              1              1              2.5            2.8            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
+outfile << "1              1              1              2.5            2.89            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
+outfile << "1              1              1              2.5            2.89            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
 
 //outfile << "1              1              1              2.9            3.45            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
 //outfile << "1              1              1              2.9            3.45            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
 
-outfile << "1              1              1              3.75            4.2            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
-outfile << "1              1              1              3.75            4.2            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
+//outfile << "1              1              1              3.46            4.2            134.58         134.58         1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq3_11_27_134.58.dat" << endl;
+//outfile << "1              1              1              3.46            4.2            138.9          138.9          1              1              0              0	/home/amber/ownCloud/Documents/Tech/azure/37K_new/qqq5_11_27_138.9.dat" << endl;
 
 outfile << "</segmentsData>" << endl;
 outfile << "<segmentsTest>" << endl;
@@ -169,7 +179,7 @@ outfile << "</targetInt>" << endl;
 outfile << "<lastRun>" << endl;
 outfile << "8969" << endl;
 //make sure this is an absolute path.
-outfile << "\"/home/amber/Documents/Tech/azure/outputs/"<<naming<<"alibaba.out\"" << endl;
+outfile << "\"/home/amber/Documents/Tech/azure/outputs/"<<naming<<".out\"" << endl;
 outfile << "\"/home/amber/Documents/Tech/azure/outputs/"<<naming<<".extrap\"" << endl;
 outfile << "0 \"\" "<< endl;
 outfile << "-1. -1. -1." << endl;

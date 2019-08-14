@@ -1,0 +1,1533 @@
+jpi1 jp2 jpi3 jpi4 res order
+0   0    0    0  0 
+Segment #1 Chi-Squared/N: 1.92646
+1   0    0    0  0 
+Segment #1 Chi-Squared/N: 1.96873
+2   0    0    0  0 
+Segment #1 Chi-Squared/N: 3.19383
+3   0    0    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.02681
+4   0    0    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.00536
+0   1    0    0  0 
+Segment #1 Chi-Squared/N: 2.054
+1   1    0    0  0 
+Segment #1 Chi-Squared/N: 2.1667
+2   1    0    0  0 
+Segment #1 Chi-Squared/N: 2.77685
+3   1    0    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.05673
+4   1    0    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.05389
+0   2    0    0  0 
+Segment #1 Chi-Squared/N: 2.42594
+1   2    0    0  0 
+Segment #1 Chi-Squared/N: 2.63739
+2   2    0    0  0 
+Segment #1 Chi-Squared/N: 3.50428
+3   2    0    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.46925
+4   2    0    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.43931
+0   3    0    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.06786
+1   3    0    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.03887
+2   3    0    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.10812
+3   3    0    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.04641
+4   3    0    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.02339
+0   4    0    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.87743
+1   4    0    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.86334
+2   4    0    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.02477
+3   4    0    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.86716
+4   4    0    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.84537
+0   0    1    0  0 
+Segment #1 Chi-Squared/N: 1.98527
+1   0    1    0  0 
+Segment #1 Chi-Squared/N: 2.04816
+2   0    1    0  0 
+Segment #1 Chi-Squared/N: 3.08227
+3   0    1    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.09397
+4   0    1    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.07988
+0   1    1    0  0 
+Segment #1 Chi-Squared/N: 2.0824
+1   1    1    0  0 
+Segment #1 Chi-Squared/N: 2.17607
+2   1    1    0  0 
+Segment #1 Chi-Squared/N: 2.60964
+3   1    1    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.06993
+4   1    1    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.07476
+0   2    1    0  0 
+Segment #1 Chi-Squared/N: 2.23433
+1   2    1    0  0 
+Segment #1 Chi-Squared/N: 2.37014
+2   2    1    0  0 
+Segment #1 Chi-Squared/N: 3.18438
+3   2    1    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.24517
+4   2    1    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.22864
+0   3    1    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.17024
+1   3    1    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.10416
+2   3    1    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.95319
+3   3    1    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.1103
+4   3    1    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.09591
+0   4    1    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.99298
+1   4    1    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.9377
+2   4    1    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.86715
+3   4    1    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.93867
+4   4    1    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.92515
+0   0    2    0  0 
+Segment #1 Chi-Squared/N: 3.3749
+1   0    2    0  0 
+Segment #1 Chi-Squared/N: 3.61958
+2   0    2    0  0 
+Segment #1 Chi-Squared/N: 4.44092
+3   0    2    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.51375
+4   0    2    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.47584
+0   1    2    0  0 
+Segment #1 Chi-Squared/N: 3.89106
+1   1    2    0  0 
+Segment #1 Chi-Squared/N: 4.19576
+2   1    2    0  0 
+Segment #1 Chi-Squared/N: 4.37288
+3   1    2    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.96391
+4   1    2    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.9391
+0   2    2    0  0 
+Segment #1 Chi-Squared/N: 3.56577
+1   2    2    0  0 
+Segment #1 Chi-Squared/N: 3.91034
+2   2    2    0  0 
+Segment #1 Chi-Squared/N: 4.33173
+3   2    2    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.63914
+4   2    2    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.59598
+0   3    2    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.64982
+1   3    2    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.8041
+2   3    2    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 4.44601
+3   3    2    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.65151
+4   3    2    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.61096
+0   4    2    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.4186
+1   4    2    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.5677
+2   4    2    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 4.28983
+3   4    2    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.42265
+4   4    2    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.38284
+0   0    3    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.01287
+1   0    3    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.05644
+2   0    3    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.20251
+3   0    3    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.10382
+4   0    3    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.08746
+0   1    3    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.15353
+1   1    3    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.29089
+2   1    3    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.81195
+3   1    3    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.16422
+4   1    3    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.16742
+0   2    3    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.42628
+1   2    3    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.64275
+2   2    3    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.48826
+3   2    3    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.47045
+4   2    3    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.45257
+0   3    3    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.17607
+1   3    3    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.13986
+2   3    3    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.11272
+3   3    3    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.13832
+4   3    3    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.12094
+0   4    3    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.99455
+1   4    3    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.97068
+2   4    3    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.03803
+3   4    3    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.96229
+4   4    3    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.94571
+0   0    4    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.85024
+1   0    4    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.88688
+2   0    4    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.06188
+3   0    4    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.94232
+4   0    4    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.9236
+0   1    4    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.96468
+1   1    4    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.0892
+2   1    4    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.64453
+3   1    4    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.97585
+4   1    4    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.97595
+0   2    4    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.26917
+1   2    4    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.49674
+2   2    4    0  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.32343
+3   2    4    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.32155
+4   2    4    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.29585
+0   3    4    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.01918
+1   3    4    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.97798
+2   3    4    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.97989
+3   3    4    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.98477
+4   3    4    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.96487
+0   4    4    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.83286
+1   4    4    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.80203
+2   4    4    0  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.89483
+3   4    4    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.80291
+4   4    4    0  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.78401
+0   0    0    1  0 
+Segment #1 Chi-Squared/N: 1.98361
+1   0    0    1  0 
+Segment #1 Chi-Squared/N: 2.03025
+2   0    0    1  0 
+Segment #1 Chi-Squared/N: 3.16658
+3   0    0    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.10106
+4   0    0    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.08352
+0   1    0    1  0 
+Segment #1 Chi-Squared/N: 2.10291
+1   1    0    1  0 
+Segment #1 Chi-Squared/N: 2.20442
+2   1    0    1  0 
+Segment #1 Chi-Squared/N: 2.73798
+3   1    0    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.11508
+4   1    0    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.11603
+0   2    0    1  0 
+Segment #1 Chi-Squared/N: 2.38428
+1   2    0    1  0 
+Segment #1 Chi-Squared/N: 2.58096
+2   2    0    1  0 
+Segment #1 Chi-Squared/N: 3.33574
+3   2    0    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.42901
+4   2    0    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.40662
+0   3    0    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.15272
+1   3    0    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.11261
+2   3    0    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.07883
+3   3    0    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.13754
+4   3    0    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.1191
+0   4    0    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.96715
+1   4    0    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.94099
+2   4    0    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.99817
+3   4    0    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.96226
+4   4    0    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.9449
+0   0    1    1  0 
+Segment #1 Chi-Squared/N: 2.03495
+1   0    1    1  0 
+Segment #1 Chi-Squared/N: 2.09311
+2   0    1    1  0 
+Segment #1 Chi-Squared/N: 3.05347
+3   0    1    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.15332
+4   0    1    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.14247
+0   1    1    1  0 
+Segment #1 Chi-Squared/N: 2.11758
+1   1    1    1  0 
+Segment #1 Chi-Squared/N: 2.19215
+2   1    1    1  0 
+Segment #1 Chi-Squared/N: 2.56665
+3   1    1    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.1075
+4   1    1    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.11529
+0   2    1    1  0 
+Segment #1 Chi-Squared/N: 2.20957
+1   2    1    1  0 
+Segment #1 Chi-Squared/N: 2.31327
+2   2    1    1  0 
+Segment #1 Chi-Squared/N: 3.03473
+3   2    1    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.2065
+4   2    1    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.19637
+0   3    1    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.24868
+1   3    1    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.16157
+2   3    1    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.9199
+3   3    1    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.18754
+4   3    1    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.17721
+0   4    1    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.07666
+1   4    1    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.99817
+2   4    1    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.83576
+3   4    1    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.01975
+4   4    1    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.01009
+0   0    2    1  0 
+Segment #1 Chi-Squared/N: 3.22484
+1   0    2    1  0 
+Segment #1 Chi-Squared/N: 3.43649
+2   0    2    1  0 
+Segment #1 Chi-Squared/N: 4.16338
+3   0    2    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.35262
+4   0    2    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.32298
+0   1    2    1  0 
+Segment #1 Chi-Squared/N: 3.69113
+1   1    2    1  0 
+Segment #1 Chi-Squared/N: 3.98373
+2   1    2    1  0 
+Segment #1 Chi-Squared/N: 4.04452
+3   1    2    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.75595
+4   1    2    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.73959
+0   2    2    1  0 
+Segment #1 Chi-Squared/N: 3.28322
+1   2    2    1  0 
+Segment #1 Chi-Squared/N: 3.57813
+2   2    2    1  0 
+Segment #1 Chi-Squared/N: 3.91194
+3   2    2    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.33371
+4   2    2    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.3024
+0   3    2    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.49926
+1   3    2    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.61187
+2   3    2    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 4.14981
+3   3    2    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.48541
+4   3    2    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.45368
+0   4    2    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.28262
+1   4    2    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.38842
+2   4    2    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 4.005
+3   4    2    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.26986
+4   4    2    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.23878
+0   0    3    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.09324
+1   0    3    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.12581
+2   0    3    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.16924
+3   0    3    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.1934
+4   0    3    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.18144
+0   1    3    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.20629
+1   1    3    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.31576
+2   1    3    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.74653
+3   1    3    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.21143
+4   1    3    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.21849
+0   2    3    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.37733
+1   2    3    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.55608
+2   2    3    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.26942
+3   2    3    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.40179
+4   2    3    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.39164
+0   3    3    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.27768
+1   3    3    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.20767
+2   3    3    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.06186
+3   3    3    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.22985
+4   3    3    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.21737
+0   4    3    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.10233
+1   4    3    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.04282
+2   4    3    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.99037
+3   4    3    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.05858
+4   4    3    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.04676
+0   0    4    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.94655
+1   0    4    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.97359
+2   0    4    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.04801
+3   0    4    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.04878
+4   0    4    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.03471
+0   1    4    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.03588
+1   1    4    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.13216
+2   1    4    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.60223
+3   1    4    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.04146
+4   1    4    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.0456
+0   2    4    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.23784
+1   2    4    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.42956
+2   2    4    1  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.12682
+3   2    4    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.27013
+4   2    4    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.25278
+0   3    4    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.13716
+1   3    4    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.06308
+2   3    4    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.94745
+3   3    4    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.09256
+4   3    4    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.07787
+0   4    4    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.95769
+1   4    4    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.89204
+2   4    4    1  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.86666
+3   4    4    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.91622
+4   4    4    1  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.90237
+0   0    0    2  0 
+Segment #1 Chi-Squared/N: 2.59672
+1   0    0    2  0 
+Segment #1 Chi-Squared/N: 2.64261
+2   0    0    2  0 
+Segment #1 Chi-Squared/N: 3.59274
+3   0    0    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.70855
+4   0    0    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.70311
+0   1    0    2  0 
+Segment #1 Chi-Squared/N: 2.77562
+1   1    0    2  0 
+Segment #1 Chi-Squared/N: 2.88719
+2   1    0    2  0 
+Segment #1 Chi-Squared/N: 3.16914
+3   1    0    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.79005
+4   1    0    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.80443
+0   2    0    2  0 
+Segment #1 Chi-Squared/N: 2.79043
+1   2    0    2  0 
+Segment #1 Chi-Squared/N: 2.95962
+2   2    0    2  0 
+Segment #1 Chi-Squared/N: 3.57679
+3   2    0    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.83183
+4   2    0    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.82097
+0   3    0    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.76892
+1   3    0    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.7298
+2   3    0    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.50653
+3   3    0    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.74597
+4   3    0    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.73928
+0   4    0    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.59673
+1   4    0    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.57049
+2   4    0    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.43724
+3   4    0    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.58344
+4   4    0    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.57757
+0   0    1    2  0 
+Segment #1 Chi-Squared/N: 2.73742
+1   0    1    2  0 
+Segment #1 Chi-Squared/N: 2.81722
+2   0    1    2  0 
+Segment #1 Chi-Squared/N: 3.54094
+3   0    1    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.86179
+4   0    1    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.86447
+0   1    1    2  0 
+Segment #1 Chi-Squared/N: 2.90289
+1   1    1    2  0 
+Segment #1 Chi-Squared/N: 3.00691
+2   1    1    2  0 
+Segment #1 Chi-Squared/N: 3.08133
+3   1    1    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.90173
+4   1    1    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.92426
+0   2    1    2  0 
+Segment #1 Chi-Squared/N: 2.655
+1   2    1    2  0 
+Segment #1 Chi-Squared/N: 2.76391
+2   2    1    2  0 
+Segment #1 Chi-Squared/N: 3.21403
+3   2    1    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.64276
+4   2    1    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.64698
+0   3    1    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.9681
+1   3    1    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.89703
+2   3    1    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.40927
+3   3    1    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.90237
+4   3    1    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.90527
+0   4    1    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.81238
+1   4    1    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.74852
+2   4    1    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.34053
+3   4    1    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.75085
+4   4    1    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.7541
+0   0    2    2  0 
+Segment #1 Chi-Squared/N: 3.76062
+1   0    2    2  0 
+Segment #1 Chi-Squared/N: 3.95804
+2   0    2    2  0 
+Segment #1 Chi-Squared/N: 4.54287
+3   0    2    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.87364
+4   0    2    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.85432
+0   1    2    2  0 
+Segment #1 Chi-Squared/N: 4.24673
+1   1    2    2  0 
+Segment #1 Chi-Squared/N: 4.50535
+2   1    2    2  0 
+Segment #1 Chi-Squared/N: 4.44471
+3   1    2    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 4.30145
+4   1    2    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 4.29642
+0   2    2    2  0 
+Segment #1 Chi-Squared/N: 3.65195
+1   2    2    2  0 
+Segment #1 Chi-Squared/N: 3.90769
+2   2    2    2  0 
+Segment #1 Chi-Squared/N: 4.13552
+3   2    2    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.68107
+4   2    2    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.65922
+0   3    2    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 4.0228
+1   3    2    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 4.11922
+2   3    2    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 4.52011
+3   3    2    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.99009
+4   3    2    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.96876
+0   4    2    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.82124
+1   4    2    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.91063
+2   4    2    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 4.3819
+3   4    2    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.78956
+4   4    2    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.76851
+0   0    3    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.73695
+1   0    3    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.76848
+2   0    3    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.61723
+3   0    3    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.82739
+4   0    3    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.82641
+0   1    3    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.9061
+1   1    3    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.02443
+2   1    3    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.186
+3   1    3    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.90679
+4   1    3    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.92606
+0   2    3    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.799
+1   2    3    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.93378
+2   2    3    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.48037
+3   2    3    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.8007
+4   2    3    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.80038
+0   3    3    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.92129
+1   3    3    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.84635
+2   3    3    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.49653
+3   3    3    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.85484
+4   3    3    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.85303
+0   4    3    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.75693
+1   4    3    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.69174
+2   4    3    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.43362
+3   4    3    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.69429
+4   4    3    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.6929
+0   0    4    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.62069
+1   0    4    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.64769
+2   0    4    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.53013
+3   0    4    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.71305
+4   0    4    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.71043
+0   1    4    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.76676
+1   1    4    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.87589
+2   1    4    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.07466
+3   1    4    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.76762
+4   1    4    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.78485
+0   2    4    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.69959
+1   2    4    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.8487
+2   2    4    2  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.39517
+3   2    4    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.70847
+4   2    4    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.70195
+0   3    4    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.81098
+1   3    4    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.73262
+2   3    4    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.41579
+3   3    4    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.74739
+4   3    4    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.74392
+0   4    4    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.64379
+1   4    4    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.57349
+2   4    4    2  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.34522
+3   4    4    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.58315
+4   4    4    2  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.58022
+0   0    0    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.95154
+1   0    0    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.99643
+2   0    0    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.12977
+3   0    0    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.06203
+4   0    0    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.04476
+0   1    0    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.09179
+1   1    0    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.21056
+2   1    0    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.71077
+3   1    0    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.10719
+4   1    0    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.10928
+0   2    0    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.36473
+1   2    0    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.55682
+2   2    0    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.32392
+3   2    0    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.40947
+4   2    0    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.38643
+0   3    0    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.11324
+1   3    0    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.08196
+2   3    0    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.04658
+3   3    0    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.09976
+4   3    0    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.08139
+0   4    0    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.92817
+1   4    0    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.91197
+2   4    0    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.96908
+3   4    0    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.92497
+4   4    0    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 1.90785
+0   0    1    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.02331
+1   0    1    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.09437
+2   0    1    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.02491
+3   0    1    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.14353
+4   0    1    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.13397
+0   1    1    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.14078
+1   1    1    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.2463
+2   1    1    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.55664
+3   1    1    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.14205
+4   1    1    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.15227
+0   2    1    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.18924
+1   2    1    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.30417
+2   2    1    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.99284
+3   2    1    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.19096
+4   2    1    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.1821
+0   3    1    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.23518
+1   3    1    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.17226
+2   3    1    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.89863
+3   3    1    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.18453
+4   3    1    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.17541
+0   4    1    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.06425
+1   4    1    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.01235
+2   4    1    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.81994
+3   4    1    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.01854
+4   4    1    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.01025
+0   0    2    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.22686
+1   0    2    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.43998
+2   0    2    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 4.15894
+3   0    2    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.35294
+4   0    2    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.32281
+0   1    2    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.71037
+1   1    2    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.9957
+2   1    2    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 4.05722
+3   1    2    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.77933
+4   1    2    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.76283
+0   2    2    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.29162
+1   2    2    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.58367
+2   2    2    3  0 
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.91296
+3   2    2    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.34294
+4   2    2    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.31091
+0   3    2    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.49722
+1   3    2    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.61914
+2   3    2    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 4.14896
+3   3    2    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.48855
+4   3    2    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.45626
+0   4    2    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.2773
+1   4    2    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.39427
+2   4    2    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 4.00614
+3   4    2    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.27027
+4   4    2    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.23891
+0   0    3    3  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.06477
+1   0    3    3  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.10659
+2   0    3    3  0 
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 3.15279
+3   0    3    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.16378
+4   0    3    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.10903
+0   1    3    3  0 
+1   1    3    3  0 
+2   1    3    3  0 
+3   1    3    3  0 
+4   1    3    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.23538
+0   2    3    3  0 
+1   2    3    3  0 
+2   2    3    3  0 
+3   2    3    3  0 
+4   2    3    3  0 
+WARNING: Denominator less than zero in E=6.95 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.85475
+0   3    3    3  0 
+1   3    3    3  0 
+WARNING: Denominator less than zero in E=7.041 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.176 MeV resonance transformation.  Tranformation may not have been successful.
+WARNING: Denominator less than zero in E=7.37 MeV resonance transformation.  Tranformation may not have been successful.
+Segment #1 Chi-Squared/N: 2.19885
+2   3    3    3  0 
